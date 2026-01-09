@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+3:I[26487,["/_next/static/chunks/77e7100737f17bb7.js","/_next/static/chunks/6c8ee1a84daa678b.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+2:T66b,<h1>RC Cyber Truck Project</h1>
+<h2>Introduction</h2>
+<p>This project involved designing and building a remote-controlled cyber truck that could withstand high-impact crashes. The goal was to create a durable RC vehicle using advanced machining techniques and materials.</p>
+<h2>Background</h2>
+<p>RC cars are typically made from plastic or lightweight metals, but for this project, I wanted to create something much more robust. The cyber truck design was chosen for its angular, futuristic aesthetic and the challenge of machining complex geometries.</p>
+<h2>Design Process</h2>
+<h3>Materials Used</h3>
+<ul>
+<li>Aluminum alloy for the chassis</li>
+<li>Steel reinforcements</li>
+<li>High-strength polymers for body panels</li>
+<li>Brushless motor system</li>
+</ul>
+<h3>Machining Techniques</h3>
+<ul>
+<li>CNC milling for precision parts</li>
+<li>Laser cutting for body panels</li>
+<li>3D printing for prototyping</li>
+</ul>
+<h2>Construction</h2>
+<p>The build process took several months and involved:</p>
+<ol>
+<li>CAD modeling of all components</li>
+<li>Machining metal parts to tight tolerances</li>
+<li>Assembly and testing</li>
+<li>Crash testing and iterations</li>
+</ol>
+<h2>Results</h2>
+<p>The final vehicle successfully withstood multiple high-speed crashes without significant damage. The project demonstrated the importance of material selection and engineering principles in RC vehicle design.</p>
+<h2>Conclusion</h2>
+<p>This project taught me valuable lessons in mechanical engineering, from design to manufacturing. The cyber truck serves as a testament to the power of combining traditional machining with modern design tools.</p>
+0:{"buildId":"lwDXUb2SzHNVGUSFsn6pc","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-4 gap-8","children":[["$","div",null,{"className":"lg:col-span-3","children":["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"RC Cyber Truck"}],["$","div",null,{"className":"flex items-center text-gray-600 dark:text-gray-400 mb-4","children":[["$","span",null,{"className":"bg-green-100 dark:bg-green-900 text-green-800 dark:text-green-200 text-xs font-semibold px-2 py-1 rounded-full uppercase mr-4","children":"Mechanical Engineering"}],["$","time",null,{"children":"May 10, 2021"}]]}]]}],["$","div",null,{"className":"prose prose-lg dark:prose-invert max-w-none","dangerouslySetInnerHTML":{"__html":"$2"}}]]}]}],["$","aside",null,{"className":"lg:col-span-1","children":["$","div",null,{"className":"sticky top-20","children":[["$","h2",null,{"className":"text-xl font-semibold mb-4","children":"On this page"}],["$","nav",null,{"children":["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","a",null,{"href":"#introduction","className":"text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400","children":"Introduction"}]}],["$","li",null,{"children":["$","a",null,{"href":"#background","className":"text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400","children":"Background"}]}],["$","li",null,{"children":["$","a",null,{"href":"#conclusion","className":"text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400","children":"Conclusion"}]}]]}]}]]}]}]]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
